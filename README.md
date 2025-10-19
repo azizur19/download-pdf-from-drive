@@ -1,11 +1,7 @@
-Here’s a simple **README.md** you can use for your GitHub repo:
 
-````markdown
 # Google Drive PDF Downloader
 
 This Python script downloads images from a Google Drive file preview and compiles them into a PDF.
-
----
 
 ## Requirements
 
